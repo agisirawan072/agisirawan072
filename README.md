@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Agis </h1>
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ4bjZ5OGE2a2JmOWtmandhbWw5Z2s4MG52YjRmcjNmMGx3aWx2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ4bjZ5OGE2a2JmOWtmandhbWw5Z2s4MG52YjRmcjNmMGx3aWx2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="90%"  >
 
 ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
@@ -32,9 +32,8 @@
 
 #### Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vestiapani/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-wirahadi-permana-503694337/)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ipanntsu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agisirawan_30/)
+[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
 
 #### My Github Stats
 ![Pani's GitHub stats](https://github-readme-stats.vercel.app/api?username=vestiapani&show_icons=true&theme=tokyonight)
