@@ -1,4 +1,4 @@
-## Hi i'm Agis 👋
+## Hi, i'm Agis 👋
 
 ![alt text](https://github.com/agisirawan072/agisirawan072/blob/main/heho.jpeg?raw=true)
 
