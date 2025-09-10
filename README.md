@@ -19,16 +19,6 @@
   <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 
-#### Games
-<div display = "flex">
-  <a href="https://steamcommunity.com/profiles/76561198962828088/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
-  <a href="https://store.epicgames.com/u/a2e41f301b1c41f58bc8708e146f9040" target=_blank">
-  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-</div> 
 
 #### Connect With Me
 
